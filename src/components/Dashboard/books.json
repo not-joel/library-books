@@ -1,0 +1,232 @@
+{
+    "latest": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "topRated": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "drama": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "fiction": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "comedy": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "philosophy": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "horror": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "thriller": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "art": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ],
+    "science": [
+        {
+            "id": "01",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "02",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        },
+        {
+            "id": "03",
+            "title": "Harry Potter",
+            "description": "magical fantasy movie",
+            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+            "author": "J.K Rowling"
+        }
+    ]
+}
