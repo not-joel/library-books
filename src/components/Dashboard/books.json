@@ -1,21 +1,21 @@
 {
     "latest": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
-            "title": "Harry Potter",
+            "id": 2,
+            "title": "A Million to One",
             "description": "magical fantasy movie",
-            "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
-            "author": "J.K Rowling"
+            "image": "https://www.designforwriters.com/wp-content/uploads/2017/10/design-for-writers-book-cover-tf-2-a-million-to-one.jpg",
+            "author": "Tony Faggioli"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -24,21 +24,21 @@
     ],
     "topRated": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -47,21 +47,21 @@
     ],
     "drama": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -70,21 +70,21 @@
     ],
     "fiction": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -93,21 +93,21 @@
     ],
     "comedy": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -116,21 +116,21 @@
     ],
     "philosophy": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -139,21 +139,21 @@
     ],
     "horror": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -162,21 +162,21 @@
     ],
     "thriller": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -185,21 +185,21 @@
     ],
     "art": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
@@ -208,21 +208,21 @@
     ],
     "science": [
         {
-            "id": "01",
+            "id": 1,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "02",
+            "id": 2,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
             "author": "J.K Rowling"
         },
         {
-            "id": "03",
+            "id": 3,
             "title": "Harry Potter",
             "description": "magical fantasy movie",
             "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",

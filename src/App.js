@@ -8,9 +8,8 @@ function App() {
   console.log(isLoggedIn)
   return (
     <div className="App">
-      {/* {!isLoggedIn && <Login />}
-      {isLoggedIn && <Dashboard />} */}
-      <Dashboard />
+      {!isLoggedIn && <Login />}
+      {isLoggedIn && <Dashboard />}
     </div>
   );
 }
