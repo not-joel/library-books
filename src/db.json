@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "description": "Magical Fantasy Story",
+      "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?w=1824&fit=max",
+      "author": "J.K Rowling"
+    },
+    {
+      "id": 2,
+      "title": "A Million to One",
+      "description": "magical fantasy movie",
+      "image": "https://www.designforwriters.com/wp-content/uploads/2017/10/design-for-writers-book-cover-tf-2-a-million-to-one.jpg",
+      "author": "Tony Faggioli"
+    },
+    {
+      "id": 3,
+      "title": "True Love",
+      "description": "Magical Fantasy Story",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/22/20/asset/d501ee3b6aaa/sub-buzz-8285-1608667292-7.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+      "author": "J.K Rowling"
+    },
+    {
+      "id": 4,
+      "title": "The Martian",
+      "description": "Magical Fantasy Story",
+      "image": "https://i.pinimg.com/originals/35/66/dc/3566dc24c327c144d18dffbac7145d28.jpg",
+      "author": "J.K Rowling"
+    },
+    {
+      "id": 5,
+      "title": "Sugar Run",
+      "description": "Magical Fantasy Story",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2019/01/9781616208882.jpg",
+      "author": "J.K Rowling"
+    }
+  ]
